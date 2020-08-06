@@ -1,9 +1,15 @@
 img {
-  margin: auto;
   width: 14%;
   float: center;
 }
+.col-10{
+  border:grey;
+  margin-top:20px;
+  margin-bottom: 75px;
+  margin-right: 200px;
+  margin-left: 5px;
+}
 
  H1 {
-   font-style: Times
+   font-style:italic;
  }
