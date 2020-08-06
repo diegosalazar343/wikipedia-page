@@ -20,6 +20,10 @@ body {
 
  li{
    display: list-item;
+   margin: 0;
+   padding: 0.25em 0;
+   font-size: 0.75em;
+   line-height: 1.125em;
  }
 
  div{
